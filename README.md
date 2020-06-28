@@ -1,6 +1,6 @@
-# floodIt_game
-Flood It game
+# Flood it
 
-cf. le dossier /android pour le portage Android du jeu ou bien /VSDL pour jouer au jeu sur ordinateur.
+It's a `flood it` based game created with the SDL.
 
-Auteurs : Martin Debouté, Gonzague Beutter, Paul Brebinaud
+Cf. the android folder for the Android version of the game or VSDL to play the game on a computer.
+Authors: Martin Debouté, Gonzague Beutter, Paul Brebinaud
