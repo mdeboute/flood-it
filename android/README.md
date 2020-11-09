@@ -237,14 +237,3 @@ Android Log & Debug
     adb shell getprop
 
 * GDB Debug (off-topic)
-
---
-aurelien.esnard@u-bordeaux.fr
-
-
-
-
-
-
-
-
