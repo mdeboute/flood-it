@@ -1,4 +1,4 @@
-# Flood it
+# Flood it 🎮
 
 It's a `flood it` based game created with the SDL.
 
