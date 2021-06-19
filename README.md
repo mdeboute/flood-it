@@ -1,6 +1,6 @@
 # Flood it 🎮
 
-It's a `flood it` based game created with the SDL.
+It's a `flood it` based game created with the SDL API.
 
 ![alt text](https://github.com/mdeboute/flood_it/blob/master/assets/flood-it.png) 
 
